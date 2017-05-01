@@ -2,10 +2,10 @@
 <classpath>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
-	<classpathentry kind="lib" path="D:/Java/workspace/SwingProject/Lib/idw-gpl.jar"/>
-	<classpathentry kind="lib" path="D:/Java/workspace/SwingProject/Lib/JTattoo.jar"/>
-	<classpathentry kind="lib" path="D:/Java/workspace/SwingProject/Lib/liquidlnf.jar"/>
-	<classpathentry kind="lib" path="D:/Java/workspace/SwingProject/Lib/quaqua.jar"/>
-	<classpathentry kind="lib" path="D:/Java/workspace/SwingProject/Lib/thumbnailator-0.4.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DJA/git/joeun1612_3/SwingProject/Lib/idw-gpl.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DJA/git/joeun1612_3/SwingProject/Lib/JTattoo.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DJA/git/joeun1612_3/SwingProject/Lib/liquidlnf.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DJA/git/joeun1612_3/SwingProject/Lib/quaqua.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DJA/git/joeun1612_3/SwingProject/Lib/thumbnailator-0.4.7.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
